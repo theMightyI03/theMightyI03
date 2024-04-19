@@ -9,4 +9,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=theMightyI03&theme=git-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&border=DD2727&ring=D8DD23)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,nodejs,js,vue,css,azure,kubernetes,docker,git,express,github,gitlab,html,java,mongodb,mysql,nestjs,npm,pinia,postman,vite,windows,apple,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,ts,nodejs,express,nestjs,npm,pinia,vite,vue,cs,mongodb,java,mysql,azure,kubernetes,docker,git,github,gitlab,windows,apple,postman&theme=dark)](https://skillicons.dev)
