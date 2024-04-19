@@ -2,7 +2,7 @@
 
 <!--
 **theMightyI03/theMightyI03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 ![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=theMightyI03&count_private=true&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=theMightyI03&theme=dark)
